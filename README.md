@@ -24,5 +24,5 @@ You chose NormalReciter
 ```
 
 # Screenshot
-![alt text](https://github.com/jackbabie/mekari/blob/main/usage.png)
+![alt text](https://github.com/jackbabie/mekari/blob/master/usage.png)
 
